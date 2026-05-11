@@ -1,0 +1,12 @@
+train: D:/WMRM/datasets/data/train
+val: D:/WMRM/datasets/data/val
+test: D:/WMRM/datasets/data/test
+nc: 7
+names:
+- BLOCK ETCH
+- COATING BAD
+- PARTICLE
+- PIQ PARTICLE
+- PO CONTAMINATION
+- SCRATCH
+- SEZ BURNT
